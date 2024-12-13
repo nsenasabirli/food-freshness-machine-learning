@@ -1,0 +1,9 @@
+pandas
+spacy
+fuzzywuzzy
+rapidfuzz
+transformers
+torch
+sentence-transformers
+fitz
+nltk
