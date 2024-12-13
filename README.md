@@ -1,1 +1,1 @@
-# food-freshness-machine-learning
+# Pattern Recognition
