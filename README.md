@@ -1,5 +1,5 @@
 # Pattern Recognition
-**NOVELTY***
+***NOVELTY PROJECT***
 
 What’s your data type? -> Text, sentences (for flexibility)
 
